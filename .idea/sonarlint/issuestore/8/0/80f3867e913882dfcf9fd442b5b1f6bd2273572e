@@ -1,0 +1,26 @@
+
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(Ë’‰Ä8ÍøÆÜâ.
+l
+java:S2095Z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¹×ßµ8—¢ï‰â.
+d
+java:S2259M"GA "NullPointerException" could be thrown; "resultSet" is nullable here.(èå²×8’Ñ’ˆâ.
+e
+java:S2259Š"GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹8Ô¬ß•â.
+l
+java:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(˜¼© 8¾Ÿİ‡â.
+W
+java:S1143u"5Remove this return statement from this finally block.(úë×Ãúÿÿÿÿ8ÃñÕ•â.
+m
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¹×ßµ8ÔŞ­Üâ.
+q
+java:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÆĞËòúÿÿÿÿ8›ÔÛâ.
+d
+java:S2259."GA "NullPointerException" could be thrown; "resultSet" is nullable here.(èå²×8¸§‡â.
+e
+java:S2259£"GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹8ÅæÂÜâ.
+W
+java:S11433"5Remove this return statement from this finally block.(¬˜¼˜şÿÿÿÿ8¸§‡â.
+d
+java:S2259q"GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹8ÃñÕ•â.
+R
+java:S1481|"5Remove this unused "dinosaurioUpdate" local variable.(ÀİÇ8ò°ÑŠâ.

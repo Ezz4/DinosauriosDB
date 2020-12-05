@@ -1,0 +1,31 @@
+
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¼øùÀ8â¢Ş®á.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(üÍŒÔúÿÿÿÿ8Ş¡øÜâ.
+]	java:S125-"<This block of commented-out lines of code should be removed.(üÄç™ùÿÿÿÿ8Ññ„•â.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(òá¶8ÒÖş”â.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Ä—Ö³8§ğòÜâ.
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Stegosaurus" 4 times.(õ½ê”øÿÿÿÿ8ÛíÒÜâ.
+b
+java:S1854"ERemove this useless assignment to local variable "dinosaurioCurrent".(Ÿ©ìš8Ññ„•â.
+S
+java:S1481"6Remove this unused "dinosaurioCurrent" local variable.(Ÿ©ìš8Ññ„•â.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¢˜Ñó8ğŠ±ˆâ.
+k
+java:S1192"NDefine a constant instead of duplicating this literal "Brachiosaurus" 3 times.(·Ñ¼š8ÃùèÜâ.
+u
+java:S1192"SDefine a constant instead of duplicating this literal "Bosques y praderas" 7 times.(õ½ê”øÿÿÿÿ8ÛíÒÜâ.
+`
+java:S1854"CRemove this useless assignment to local variable "dinosaurioList2".(Çúš8Õ›ãÜâ.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(üÍŒÔúÿÿÿÿ8èßóŠâ.
+c
+java:S1854"ARemove this useless assignment to local variable "dinosaurioNew".(õ½ê”øÿÿÿÿ8Ññ„•â.
+M
+java:S1481,"+Remove this unused "numero" local variable.(•†‰èúÿÿÿÿ8Ññ„•â.
+T
+java:S1481"2Remove this unused "dinosaurioNew" local variable.(õ½ê”øÿÿÿÿ8Ññ„•â.
+Q
+java:S1481"4Remove this unused "dinosaurioList2" local variable.(Çúš8Õ›ãÜâ.
+k
+java:S1192"IDefine a constant instead of duplicating this literal "Jurasico" 7 times.(õ½ê”øÿÿÿÿ8ÛíÒÜâ.
+X	java:S125!"<This block of commented-out lines of code should be removed.(úæÊ8½ŠÓ”â.

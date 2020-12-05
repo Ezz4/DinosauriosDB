@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÉ‚úÿÿÿÿ8­ğÊ®á.
+P
+java:S1444".Make this "public static conexion" field final(Œ´æªıÿÿÿÿ8§Ã¢®á.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¼™¡¯ùÿÿÿÿ8§Ã¢®á.
+v
+java:S1104"TMake conexion a static final constant or non-public and provide accessors if needed.(Œ´æªıÿÿÿÿ8§Ã¢®á.
